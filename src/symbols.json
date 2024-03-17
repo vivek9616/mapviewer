@@ -1,0 +1,19 @@
+[{   "country":"United States",
+    "Currency":"USD($)",
+     "speed":"Miles per hour (mph or mi/h)",
+     "distance":"miles",
+     "volume":"gallons"
+    },
+    {"country":"India",
+    "Currency":"Indian Rupee (₹) ",
+    "speed":"kilometer per hour (km/h)",
+    "distance":"kilometers(km)",
+    "volume":"litres"    
+    },
+    {"country":"United Kingdom",
+    "Currency":"Pound(£)",
+    "speed":"Miles per hour (mph or mi/h)",
+    "distance":"miles",
+    "volume":"quart"
+        
+    }]

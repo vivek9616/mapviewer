@@ -1,0 +1,23 @@
+.header{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:10px;
+    padding:15px;
+    font-size: 20px;
+    line-height:20px;
+    color:#ffe8c3;
+    background-color: #360ee7;
+    border-radius: 10px;
+    border: 2px solid #f5cc8b;
+}
+
+img{
+    border-radius: 50%;
+    width : 60px;
+    height: auto;
+    margin:2px;
+}
+button{
+    margin: 2px;
+}

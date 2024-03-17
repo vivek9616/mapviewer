@@ -1,0 +1,17 @@
+.App {
+  background-color: #3e4450;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+button{
+  background-color: brown;
+  color:white;
+  border-radius: 10px;
+  height:30px;
+  width:70px;
+}
+
+
+
+
