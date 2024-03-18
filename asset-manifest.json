@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.091f0a35.css",
-    "main.js": "/static/js/main.91df2665.js",
-    "index.html": "/index.html",
-    "main.091f0a35.css.map": "/static/css/main.091f0a35.css.map",
-    "main.91df2665.js.map": "/static/js/main.91df2665.js.map"
+    "main.css": "/vivek9616/mapviewer/tree/master/static/css/main.091f0a35.css",
+    "main.js": "/vivek9616/mapviewer/tree/master/static/js/main.91df2665.js",
+    "index.html": "/vivek9616/mapviewer/tree/master/index.html",
+    "main.091f0a35.css.map": "/vivek9616/mapviewer/tree/master/static/css/main.091f0a35.css.map",
+    "main.91df2665.js.map": "/vivek9616/mapviewer/tree/master/static/js/main.91df2665.js.map"
   },
   "entrypoints": [
     "static/css/main.091f0a35.css",
